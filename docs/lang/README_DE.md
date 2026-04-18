@@ -33,9 +33,9 @@ und erhalte einen **AI Skill, der tatsächlich wie sie arbeitet**
 
 ---
 
-> 🆕 **Update 2026.04.17** — **WeChat-Gruppe 4 ist online!** Komm in die dot-skill Community — teile Skills, diskutiere Features, tausche Tipps aus.
+> 🆕 **Update 2026.04.18** — **WeChat-Gruppe 5 ist online!** Komm in die dot-skill Community — teile Skills, diskutiere Features, tausche Tipps aus.
 >
-> <img src="../assets/wechat-group-qr-4.png" alt="dot-skill WeChat-Gruppen QR" width="240"> 
+> <img src="../assets/wechat-group-qr-5.png" alt="dot-skill WeChat-Gruppen QR" width="240"> 
 >
 > QR wird alle 7 Tage erneuert — wenn abgelaufen, melde dich auf Discord.
 
